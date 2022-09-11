@@ -1,5 +1,3 @@
-https://user-images.githubusercontent.com/102493965/189553783-9ef26a59-68e0-41b8-ad5d-16e792fb5421.png
-
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
